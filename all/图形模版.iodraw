@@ -359,10 +359,10 @@
           <mxGeometry x="2511.18" y="-1780.5" width="102.66" height="34" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-145" value="记录体重数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2514.83" y="-1719" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2516.34" y="-1731" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-146" value="查看体重趋势" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2514.829999999999" y="-1684" width="90" height="32" as="geometry" />
+          <mxGeometry x="2516.3399999999992" y="-1696" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-148" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-146">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-149" value="进行BMI测试" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2517.169999999999" y="-1645" width="90" height="32" as="geometry" />
+          <mxGeometry x="2518.6799999999994" y="-1657" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-150" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-149">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -413,6 +413,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2434" y="-1614" as="sourcePoint" />
             <mxPoint x="2526" y="-1526" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-160" value="记录体重数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="2516.34" y="-1618" width="86.68" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-161" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-160">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2428" y="-1598" as="sourcePoint" />
+            <mxPoint x="2526" y="-1413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
