@@ -358,24 +358,6 @@
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;编辑用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2526.34" y="-1885.5" width="86.68" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-132" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;搜索食物&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2524.6799999999994" y="-1848" width="90" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-133" value="浏览健康食谱" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2525.3600000000006" y="-1810.5" width="86.32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-135" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-132">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2463.95" y="-1665.5" as="sourcePoint" />
-            <mxPoint x="2654.95" y="-1671.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-136" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-133">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2463.95" y="-1665.5" as="sourcePoint" />
-            <mxPoint x="2649.95" y="-1668.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-137" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-138">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2425.5" y="-1735" as="sourcePoint" />
