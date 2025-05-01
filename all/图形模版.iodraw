@@ -296,7 +296,7 @@
           <mxGeometry x="2357" y="-2010" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-107" value="社区管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2357" y="-1911" width="75.63" height="32" as="geometry" />
+          <mxGeometry x="2357" y="-1885.5" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-108" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2352" y="-1790" width="75.63" height="32" as="geometry" />
@@ -335,10 +335,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-126" value="查看运动统计图表" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="-1926.5" width="106" height="32" as="geometry" />
+          <mxGeometry x="2516.02" y="-1876" width="106" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-127" value="记录运动数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2525.8600000000006" y="-1965" width="86.32" height="32" as="geometry" />
+          <mxGeometry x="2521.8800000000006" y="-1914.5" width="86.32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-128" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-107" target="x5Y9VFqw7jQ4F4N5CJKx-127">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;查看用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2516.0000000000005" y="-1819" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2517.6600000000003" y="-1814" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-139" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-140">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -356,7 +356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-140" value="编辑用户信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2521.67" y="-1772.5" width="102.66" height="34" as="geometry" />
+          <mxGeometry x="2513.19" y="-1772.5" width="102.66" height="34" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-145" value="记录体重数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2516" y="-1587" width="86.68" height="32" as="geometry" />
