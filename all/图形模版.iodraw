@@ -325,12 +325,6 @@
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-111" value="查看首页统计分析" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2505.05" y="-2174" width="127.95" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-117" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-106" target="x5Y9VFqw7jQ4F4N5CJKx-118">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2445" y="-1922" as="sourcePoint" />
-            <mxPoint x="2520" y="-2019" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-118" value="参与减重答题" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2531.02" y="-2000" width="80" height="32" as="geometry" />
         </mxCell>
