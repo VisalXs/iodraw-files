@@ -337,7 +337,7 @@
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-119" value="查看题库信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2522.34" y="-2111" width="86.68" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-120" value="发布帖子" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-120" value="" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2520.68" y="-2074" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-121" value="评论帖子" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
