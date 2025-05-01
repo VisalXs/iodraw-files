@@ -325,10 +325,10 @@
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-107" value="社区管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2357" y="-1911" width="75.63" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-108" value="饮食管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-108" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2352" y="-1790" width="75.63" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-109" value="健康数据管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-109" value="数据管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2348" y="-1640" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-110" value="智能服务" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
@@ -517,13 +517,10 @@
             <mxPoint x="2518.6800000000003" y="-2191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-152" value="使用智能减重助手" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2496.3599999999997" y="-1477" width="112.32" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-153" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-110" target="x5Y9VFqw7jQ4F4N5CJKx-152">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-153" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-110">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="2413.99" y="-1492" as="sourcePoint" />
-            <mxPoint x="2660.5999999999995" y="-1169.5" as="targetPoint" />
+            <mxPoint x="2496.359999999996" y="-1461" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
