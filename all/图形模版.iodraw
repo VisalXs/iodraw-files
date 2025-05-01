@@ -115,12 +115,6 @@
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-59" value="评论帖子" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2053.0200000000004" y="-2098" width="86.32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-60" value="" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-57" source="x5Y9VFqw7jQ4F4N5CJKx-23">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1971" y="-1984" as="sourcePoint" />
-            <mxPoint x="2136" y="-1983.5900000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-61" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-58" source="x5Y9VFqw7jQ4F4N5CJKx-23">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1971" y="-1983" as="sourcePoint" />
@@ -467,6 +461,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1961.63" y="-1790" as="sourcePoint" />
             <mxPoint x="1956.63" y="-1892" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-156" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-57">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1967" y="-2071" as="sourcePoint" />
+            <mxPoint x="2057" y="-2109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
