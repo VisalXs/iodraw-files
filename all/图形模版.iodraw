@@ -293,13 +293,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-106" value="内容管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2357" y="-2010" width="75.63" height="32" as="geometry" />
+          <mxGeometry x="2369" y="-1978.5" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-107" value="社区管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2357" y="-1885.5" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-108" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2352" y="-1790" width="75.63" height="32" as="geometry" />
+          <mxGeometry x="2352" y="-1804.5" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-109" value="数据管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2348" y="-1640" width="75.63" height="32" as="geometry" />
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;查看用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2517.6600000000003" y="-1814" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2522.84" y="-1822" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-139" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-140">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -356,7 +356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-140" value="编辑用户信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2513.19" y="-1772.5" width="102.66" height="34" as="geometry" />
+          <mxGeometry x="2521.18" y="-1780.5" width="102.66" height="34" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-145" value="记录体重数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2516" y="-1587" width="86.68" height="32" as="geometry" />
