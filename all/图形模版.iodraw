@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-95" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2788" y="-1871.5" width="34" height="68" as="geometry" />
+          <mxGeometry x="2206" y="-1842.5" width="34" height="68" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-96" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2198" y="-1772.5" width="54" height="26" as="geometry" />
@@ -280,9 +280,9 @@
             <mxPoint x="2423" y="-1775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-103" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-95" target="x5Y9VFqw7jQ4F4N5CJKx-109" edge="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-103" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-109" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2359" y="-1856.5" as="sourcePoint" />
+            <mxPoint x="2262" y="-1799" as="sourcePoint" />
             <mxPoint x="2425" y="-1694" as="targetPoint" />
           </mxGeometry>
         </mxCell>
