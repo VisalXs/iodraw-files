@@ -328,10 +328,10 @@
             <mxPoint x="2217.89" y="-1914" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-125" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-107" target="x5Y9VFqw7jQ4F4N5CJKx-126" edge="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-125" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2073.27" y="-1895" as="sourcePoint" />
-            <mxPoint x="2160.27" y="-1935" as="targetPoint" />
+            <mxPoint x="2426.999999999999" y="-1873.5" as="sourcePoint" />
+            <mxPoint x="2791" y="-1839.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-126" value="查看运动统计图表" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
@@ -340,10 +340,10 @@
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-127" value="记录运动数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2682.0000000000005" y="-1925" width="86.32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-128" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-107" target="x5Y9VFqw7jQ4F4N5CJKx-127" edge="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-128" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2084.27" y="-1907" as="sourcePoint" />
-            <mxPoint x="2257.27" y="-1832" as="targetPoint" />
+            <mxPoint x="2425.669999999999" y="-1876.5" as="sourcePoint" />
+            <mxPoint x="2759.989999999996" y="-1869.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;查看用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" parent="1" vertex="1">
