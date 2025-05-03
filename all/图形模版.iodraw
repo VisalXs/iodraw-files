@@ -308,24 +308,24 @@
           <mxGeometry x="2303" y="-2013" width="127.95" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-119" value="管理轮播图片" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2266.8400000000006" y="-1567" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2300.4600000000005" y="-1919" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-120" value="管理热量推荐" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2265.18" y="-1827" width="90" height="329" as="geometry" />
+          <mxGeometry x="2298.8" y="-1882" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-121" value="管理题库信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2271.520000000001" y="-1493" width="86.32" height="32" as="geometry" />
+          <mxGeometry x="2305.140000000001" y="-1845" width="86.32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-123" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-120" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2200" y="-1514" as="sourcePoint" />
-            <mxPoint x="2366" y="-1451" as="targetPoint" />
+            <mxPoint x="2233.62" y="-1866" as="sourcePoint" />
+            <mxPoint x="2399.62" y="-1803" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-124" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-121" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2200" y="-1500" as="sourcePoint" />
-            <mxPoint x="2361" y="-1448" as="targetPoint" />
+            <mxPoint x="2233.62" y="-1852" as="sourcePoint" />
+            <mxPoint x="2394.62" y="-1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-125" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-126" edge="1">
@@ -397,10 +397,10 @@
             <mxPoint x="1990" y="-2109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-157" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-119" edge="1">
+        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-157" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-119" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2193" y="-1535" as="sourcePoint" />
-            <mxPoint x="2271" y="-1579" as="targetPoint" />
+            <mxPoint x="2226.62" y="-1887" as="sourcePoint" />
+            <mxPoint x="2304.62" y="-1931" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-158" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="x5Y9VFqw7jQ4F4N5CJKx-131" edge="1">
