@@ -287,7 +287,7 @@
           <mxGeometry x="2424" y="-1997" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-108" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2424" y="-1932" width="75.63" height="32" as="geometry" />
+          <mxGeometry x="2422" y="-1935.5" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-109" value="数据管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2422" y="-1810.5" width="75.63" height="32" as="geometry" />
@@ -320,10 +320,10 @@
           <mxGeometry x="2567.8500000000004" y="-2023" width="86.32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;查看用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2572.87" y="-1932" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2574.64" y="-1950" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-140" value="编辑用户信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2568.8300000000004" y="-1896" width="102.66" height="34" as="geometry" />
+          <mxGeometry x="2572.82" y="-1914.5" width="102.66" height="34" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-145" value="管理饮食记录" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2574.1400000000003" y="-1858" width="86.68" height="32" as="geometry" />
