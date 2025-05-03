@@ -287,7 +287,7 @@
           <mxGeometry x="2434" y="-1932" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-108" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2890.62" y="-1813" width="75.63" height="32" as="geometry" />
+          <mxGeometry x="2422" y="-1828" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-109" value="数据管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2866.95" y="-1722" width="75.63" height="32" as="geometry" />
@@ -320,16 +320,10 @@
           <mxGeometry x="2571.0000000000005" y="-1932" width="86.32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;查看用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2996.65" y="-1824" width="86.68" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-139" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-140" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2684.62" y="-1688.75" as="sourcePoint" />
-            <mxPoint x="2791.5699999999997" y="-1572.25" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="2528.03" y="-1839" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-140" value="编辑用户信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2988" y="-1783" width="102.66" height="34" as="geometry" />
+          <mxGeometry x="2519.38" y="-1798" width="102.66" height="34" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-145" value="管理饮食记录" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2672" y="-1717" width="86.68" height="32" as="geometry" />
