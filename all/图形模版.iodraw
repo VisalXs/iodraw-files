@@ -302,7 +302,7 @@
           <mxGeometry x="2890.62" y="-1813" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-109" value="数据管理" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2322.27" y="-1852" width="75.63" height="32" as="geometry" />
+          <mxGeometry x="2866.95" y="-1722" width="75.63" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-111" value="查看首页统计分析" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2758" y="-2107" width="127.95" height="32" as="geometry" />
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-131" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;查看用户信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2708.65" y="-1802" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2996.65" y="-1824" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-139" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-108" target="x5Y9VFqw7jQ4F4N5CJKx-140" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -356,27 +356,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-140" value="编辑用户信息" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2700" y="-1761" width="102.66" height="34" as="geometry" />
+          <mxGeometry x="2988" y="-1783" width="102.66" height="34" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-145" value="管理饮食记录" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2127.32" y="-1847" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2672" y="-1717" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-146" value="管理饮食计划" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2127.3199999999993" y="-1812" width="90" height="32" as="geometry" />
+          <mxGeometry x="2671.999999999999" y="-1682" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-148" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-146" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2084.27" y="-1784" as="sourcePoint" />
-            <mxPoint x="2296.8799999999997" y="-1399" as="targetPoint" />
+            <mxPoint x="2628.95" y="-1654" as="sourcePoint" />
+            <mxPoint x="2841.5599999999995" y="-1269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-149" value="管理用户收藏" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2129.6599999999994" y="-1773" width="90" height="32" as="geometry" />
+          <mxGeometry x="2674.3399999999992" y="-1643" width="90" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-150" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-149" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2068.27" y="-1778" as="sourcePoint" />
-            <mxPoint x="2301.8799999999997" y="-1359.5" as="targetPoint" />
+            <mxPoint x="2612.95" y="-1648" as="sourcePoint" />
+            <mxPoint x="2846.5599999999995" y="-1229.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-154" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-26" target="x5Y9VFqw7jQ4F4N5CJKx-83" edge="1">
@@ -411,26 +411,26 @@
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-159" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-145" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2084.27" y="-1802" as="sourcePoint" />
-            <mxPoint x="2157.27" y="-1584" as="targetPoint" />
+            <mxPoint x="2628.95" y="-1672" as="sourcePoint" />
+            <mxPoint x="2701.95" y="-1454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-160" value="管理运动记录" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2127.32" y="-1734" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2672" y="-1604" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-161" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-160" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2070.27" y="-1739" as="sourcePoint" />
-            <mxPoint x="2157.27" y="-1471" as="targetPoint" />
+            <mxPoint x="2614.95" y="-1609" as="sourcePoint" />
+            <mxPoint x="2701.95" y="-1341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-162" value="管理体重记录" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2128.63" y="-1695" width="86.68" height="32" as="geometry" />
+          <mxGeometry x="2673.31" y="-1565" width="86.68" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-163" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x5Y9VFqw7jQ4F4N5CJKx-109" target="x5Y9VFqw7jQ4F4N5CJKx-162" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2071.27" y="-1769" as="sourcePoint" />
-            <mxPoint x="2157.27" y="-1432" as="targetPoint" />
+            <mxPoint x="2615.95" y="-1639" as="sourcePoint" />
+            <mxPoint x="2701.95" y="-1302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
