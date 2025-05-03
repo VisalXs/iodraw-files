@@ -276,8 +276,8 @@
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-102" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2361" y="-1838" as="sourcePoint" />
-            <mxPoint x="2952.249999999997" y="-1727" as="targetPoint" />
+            <mxPoint x="2249" y="-1832" as="sourcePoint" />
+            <mxPoint x="2840.249999999997" y="-1721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-103" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -335,7 +335,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-126" value="查看运动统计图表" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="2557.68" y="-1898" width="106" height="32" as="geometry" />
+          <mxGeometry x="2568.3399999999997" y="-1897" width="106" height="32" as="geometry" />
         </mxCell>
         <mxCell id="x5Y9VFqw7jQ4F4N5CJKx-127" value="记录运动数据" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="2571.0000000000005" y="-1932" width="86.32" height="32" as="geometry" />
