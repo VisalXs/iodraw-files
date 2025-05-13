@@ -571,8 +571,8 @@
             <mxPoint x="3510" y="-1699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HG6bPR-KV88Wg90QuIJE-1" value="使用智能减重助手" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3508.84" y="-1883" width="103" height="32" as="geometry" />
+        <mxCell id="HG6bPR-KV88Wg90QuIJE-2" value="测试BIM" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="3658" y="-1922" width="90" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
