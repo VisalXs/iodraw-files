@@ -359,10 +359,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f-cxCoqUcdnnrTcrb-dp-43" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;noLabel=1;fillOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="3197" y="-1954" width="34" height="68" as="geometry" />
+          <mxGeometry x="3197" y="-1948" width="34" height="68" as="geometry" />
         </mxCell>
         <mxCell id="f-cxCoqUcdnnrTcrb-dp-44" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="3193" y="-1890" width="42" height="26" as="geometry" />
+          <mxGeometry x="3193" y="-1884" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f-cxCoqUcdnnrTcrb-dp-45" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;strokeOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="3337.9999999999995" y="-1655" width="75.63" height="32" as="geometry" />
